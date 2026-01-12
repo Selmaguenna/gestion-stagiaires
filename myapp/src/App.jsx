@@ -119,6 +119,7 @@ function App() {
           Moyenne : {moyenne(s.modules)}
 
           <hr />
+          <h1>modif</h1>
         </div>
       ))}
     </>
